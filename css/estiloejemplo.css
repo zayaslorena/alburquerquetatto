@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+
+  } 
+  .inicio__img {
+    display: flex;
+    align-items:flex-start;
+    justify-content:center;
+    size: 200px;
+}
+.container-header-main {
+    background-image: url(../imagenes/fondos/tropical-swiss-cheese-plant-banner\ \(1\).jpg);
+    background-size: 100%;
+    background-position:center;
+    height:200px;
+}
+.main{
+    padding:100px;
+}
+
+
+
+nav li{
+display:inline-block;
+padding: 2px;
+font-size: 150%;
+justify-content: space-around;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family:'Open Sans Condensed', sans-serif;
+
+}
+
+form input{
+    width: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+    margin: 15px 50px;
+    border: 20px rgb(148, 241, 168);
+    border-radius: 5px;
+    color: black;
+ 
+}
+
+::placeholder {
+    color: rgb(148, 241, 168);
+}

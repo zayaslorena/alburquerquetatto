@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+
+  } 
+  .logo {
+    display: flex;
+    align-items:flex-start;
+    justify-content:center;
+    size: 200px;
+}
+header {
+    background-image: url(../imagenes/fondos/tropical-swiss-cheese-plant-banner\ \(1\).jpg);
+    background-size: 100%;
+    background-position:center;
+    height:180px;
+}
