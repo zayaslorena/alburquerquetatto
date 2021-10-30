@@ -10,9 +10,15 @@ header{
   background-size: 100%;
   background-position:center;
   height: 150px;
+
+}
+
+section{
+  height: 1500px;
 }
 footer{
   background-color: black;
+  height: 100px;
 }
 colum2{
   text-decoration-color: white;
@@ -275,8 +281,6 @@ textarea:hover {
     }
   }
 }
-.mt-auto {
-  margin-top:auto;
+.main{
+  padding: 10%;
 }
-
-

@@ -13,8 +13,13 @@ header {
   height: 150px;
 }
 
+section {
+  height: 1500px;
+}
+
 footer {
   background-color: black;
+  height: 100px;
 }
 
 colum2 {
@@ -350,7 +355,7 @@ textarea:hover {
   margin-bottom: 5px;
 }
 
-.mt-auto {
-  margin-top: auto;
+.main {
+  padding: 10%;
 }
 /*# sourceMappingURL=estilo.css.map */
